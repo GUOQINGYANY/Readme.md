@@ -1,2 +1,2 @@
 # Readme.md
-BIT102 student
+BIT102 student GUOQINGYANG_Lucas
